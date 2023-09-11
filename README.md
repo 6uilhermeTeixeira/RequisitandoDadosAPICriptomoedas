@@ -4,11 +4,11 @@ OBS: Código desenvolvido durante formação na DIO (Digital Innovation One)
 
 ## Tecnologias Utilizadas
 
-- Moesif Origin & CORS Changer: Extensão do Chrome.
+- Moesif Origin & CORS Changer: Extensão do Chrome para permitir integração.
 - CoinMarketCap API: API Gratuita de requisição de dados de criptomoedas.
 - HTML: Estrutura básica da página.
 - CSS: Estilização e layout da interface.
-- JavaScript: Lógica do cronômetro e interações do usuário.
+- JavaScript: Metódo Fetch para requisição de dados da API.
 
 ## Como Usar
 
