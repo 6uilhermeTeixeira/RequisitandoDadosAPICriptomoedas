@@ -1,5 +1,6 @@
 # RequisitandoDadosAPICriptomoedas
 Projeto de Requisição de Dados de uma API de Criptomoedas utilizando o método **Fetch** nativo do *JavaScript*.
+OBS: Código desenvolvido durante formação na DIO (Digital Innovation One)
 
 ## Tecnologias Utilizadas
 
@@ -15,5 +16,3 @@ Projeto de Requisição de Dados de uma API de Criptomoedas utilizando o método
 
 ```bash
 git clone https://github.com/6uilhermeTeixeira/RequisitandoDadosAPICriptomoedas.git
-
-OBS: Código desenvolvido durante formação na DIO (Digital Innovation One)
