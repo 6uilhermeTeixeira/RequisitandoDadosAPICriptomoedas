@@ -16,3 +16,13 @@ OBS: Código desenvolvido durante formação na DIO (Digital Innovation One)
 
 ```bash
 git clone https://github.com/6uilhermeTeixeira/RequisitandoDadosAPICriptomoedas.git
+```bash
+
+2. Instalar Moesif Origin & Cors Changer:
+Link:
+
+```bash
+https://chromewebstore.google.com/detail/moesif-origincors-changer/digfbfaphojjndkpccljibejjbppifbc?hl=pt-BR&pli=1
+```bash
+
+3. Abrir index.html do repositório clonado, apertar CTRL+SHIFIT+I, ir em console e utilizar a aplicação.
