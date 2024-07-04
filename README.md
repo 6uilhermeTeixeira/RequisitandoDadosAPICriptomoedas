@@ -18,8 +18,7 @@ OBS: Código desenvolvido durante formação na DIO (Digital Innovation One)
 git clone https://github.com/6uilhermeTeixeira/RequisitandoDadosAPICriptomoedas.git
 ```
 
-2. Instalar Moesif Origin & Cors Changer:
-Link:
+2. Instalar Moesif Origin & Cors Changer Link:
 
 ```bash
 https://chromewebstore.google.com/detail/moesif-origincors-changer/digfbfaphojjndkpccljibejjbppifbc?hl=pt-BR&pli=1
