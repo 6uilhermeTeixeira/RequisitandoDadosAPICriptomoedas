@@ -1,4 +1,4 @@
-# RequisitandoDadosAPICriptomoedas
+# Requisitando Dados de API de Criptomoedas
 Projeto de Requisição de Dados de uma API de Criptomoedas utilizando o método **Fetch** nativo do *JavaScript*.
 OBS: Código desenvolvido durante formação na DIO (Digital Innovation One)
 
