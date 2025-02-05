@@ -1,6 +1,5 @@
 # Requisitando Dados de API de Criptomoedas
-Projeto de Requisição de Dados de uma API de Criptomoedas utilizando o método **Fetch** nativo do *JavaScript*.
-OBS: Código desenvolvido durante formação na DIO (Digital Innovation One)
+Projeto de Requisição de Dados de uma API de Criptomoedas utilizando o método **Fetch** nativo do *JavaScript* desenvolvido durante formação na DIO.
 
 ## Tecnologias Utilizadas
 
@@ -15,7 +14,7 @@ OBS: Código desenvolvido durante formação na DIO (Digital Innovation One)
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/6uilhermeTeixeira/RequisitandoDadosAPICriptomoedas.git
+git clone https://github.com/6uilhermeTeixeira/requisitando-dados-API-criptomoedas.git
 ```
 
 2. Instalar Moesif Origin & Cors Changer Link:
